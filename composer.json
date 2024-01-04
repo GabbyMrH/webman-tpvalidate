@@ -1,0 +1,19 @@
+{
+    "name": "gabbymrh/webman-tpvalidate",
+    "description": "A validate util for webman",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gabbymrh\\WebmanTpvalidate\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GabbyMrH",
+            "email": "gabbymrh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
